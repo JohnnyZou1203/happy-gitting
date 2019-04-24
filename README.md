@@ -2,6 +2,7 @@
 
 ## How to use this
 
+## Happy?
 Try out git and all that
 
 **bold**, _italic_, `code block`
